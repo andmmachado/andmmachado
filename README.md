@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @andmmachado
+- 👋 Hi, I’m Anderson Machado @andmmachado
 - 👀 I’m interested in technology, music and videogames.
 - 🌱 I’m currently learning Data Science and A.I.
 - 💞️ I’m looking to collaborate on Data Science
